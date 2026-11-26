@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "http://de-bots3.h1cloud.net:25346/$1" }
+  ]
+}
